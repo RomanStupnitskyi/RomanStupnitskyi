@@ -2,7 +2,7 @@
 |-|-| 
 
 ## Hi there 👋
-I'm Roman Stupnitskyi, 17 y.o.
+I'm Roman Stupnitskyi, 18 y.o.
 
 ## Who am I
 I'm a student, love spend time programming and learning.
