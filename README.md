@@ -8,12 +8,11 @@ I'm Roman Stupnitskyi, 18 y.o.
 I'm a student, love spend time programming and learning.
 
 ## More about me
-- 🔭 I’m currently unemplyeed
-- 🌱 I’m currently learning C++
+- 🔭 I’m student
+- 🌱 Passionate in programming
 - 📫 How to reach me:
   - bamburov.r.v@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/roman-stupnitskyi-561417237)
+  - [LinkedIn](https://www.linkedin.com/in/roman-stupnitskyi)
   - [Instagram](https://instagram.com/roman_stupnitskyi)
-  - [Telegram](https://t.me/RomanStupnitskyi)
   - [Facebook](https://www.facebook.com/profile.php?id=100017926517016)
 - 😄 Pronouns: he/him
